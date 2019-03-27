@@ -23,5 +23,5 @@
         <allow-intent href="itms:*" />
         <allow-intent href="itms-apps:*" />
     </platform>
-    <plugin name="example-plugin" source="npm"   />
+    <plugin name="cordova-sms-plugin" source="npm"   />
 </widget>
